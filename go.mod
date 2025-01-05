@@ -17,9 +17,9 @@ require (
 	github.com/nicksnyder/go-i18n/v2 v2.2.1
 	github.com/pb33f/libopenapi v0.7.0
 	github.com/sashabaranov/go-openai v1.14.1
-	golang.org/x/crypto v0.7.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
-	golang.org/x/text v0.8.0
+	golang.org/x/text v0.21.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/driver/mysql v1.4.7
@@ -50,9 +50,9 @@ require (
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/vmware-labs/yaml-jsonpath v0.3.2 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/net v0.8.0 // indirect
-	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	modernc.org/libc v1.22.3 // indirect
