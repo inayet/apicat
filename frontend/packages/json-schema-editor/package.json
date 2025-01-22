@@ -16,6 +16,6 @@
   "devDependencies": {
     "unocss": "^0.50.6",
     "unplugin-auto-import": "^0.15.2",
-    "vite": "^4.1.4"
+    "vite": "^4.5.6"
   }
 }
